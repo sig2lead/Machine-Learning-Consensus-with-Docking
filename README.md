@@ -1,4 +1,4 @@
-# Machine-Learning-Consensu
+# Machine-Learning-Consensus-with-Docking
 1.  Clone Machine-Learning-Consensus-with-Docking repository form Github.
 2.  Run Sig2Lead connectivity analysis (first tab) and download output “my candidates.csv” file and “lincs candidatess.csv” files and place files in “s2l_files” folder
 3.  Run Autodock or other virtual screening program and place output file in “s2l_files” folder.  The first column should be the compound identifier and the second column should be the binding energy. 
